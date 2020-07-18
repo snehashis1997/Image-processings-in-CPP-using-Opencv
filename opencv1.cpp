@@ -1,5 +1,5 @@
 #include <opencv2/opencv.hpp>
-//Include file for every supported OpenCV function
+//Take a image from user defined path and show it in a window name
 using namespace cv;
 
 int main( int argc, char** argv )
